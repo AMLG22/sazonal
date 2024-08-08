@@ -10,4 +10,6 @@ Dois conjuntos de dados de chuva estão disponíveis para as previsões:
 
 Para as previsões de Temperaturas:
 
+    CRU.TMIN
+    CRU.TMAX
     
