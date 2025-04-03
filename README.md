@@ -1,7 +1,7 @@
 # Sazonal
 ### PyCPT ajustado para as Previsões Climáticas em Angola
 
-O ficheiro **catálogo.py** no dicionário observations contém apenas as variaveis meteo que os especialistas em cliam acham relevantes.
+O ficheiro **catálogo.py** no dicionário observations contém apenas as variaveis meteo que os especialistas em clima acham relevantes.
 
 Dois conjuntos de dados de chuva estão disponíveis para as previsões:
     
@@ -13,3 +13,4 @@ Para as previsões de Temperaturas:
     CRU.TMIN
     CRU.TMAX
     
+   \\wsl.localhost\Ubuntu\home\inamet\miniconda3\envs\pycpt-2.9.3\lib\python3.10\site-packages\cptdl
